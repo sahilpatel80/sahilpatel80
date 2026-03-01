@@ -1,5 +1,46 @@
-# 💫 About Me:
-# 👋 About Me<br><br>Hi! I'm an MCA Final Year Student passionate about building intelligent and scalable applications.  <br>I enjoy turning ideas into real-world software solutions and continuously learning new technologies.<br><br>## 💻 Technical Skills<br>- 🐍 Python  <br>- ☕ Java  <br>- 🔷 .NET  <br>- 📱 Flutter (Mobile App Development)  <br>- 🌐 HTML5 & CSS3  <br>- 🤖 AI & Machine Learning  <br>- 🌍 IoT Development  <br>- 🧩 Framework-based Application Development  <br><br>## 📱 App Development<br>I build cross-platform mobile applications using Flutter and have experience designing, developing, and deploying functional mobile apps.<br><br>## 🚀 Interests<br>- Artificial Intelligence & Smart Systems  <br>- Mobile App Development  <br>- Full Stack Development  <br>- IoT-Based Projects  <br>- Real-world Problem Solving  <br><br>🌱 Currently improving my skills in advanced AI models and scalable application architecture.<br><br>📫 Open to internships, collaborations, and exciting tech opportunities!
+💫 About Me
+👋 About Me
+
+Hi! I'm an MCA Final Year Student passionate about building intelligent and scalable applications.
+I enjoy turning ideas into real-world software solutions and continuously learning new technologies.
+
+💻 Technical Skills
+
+🐍 Python
+
+☕ Java
+
+🔷 .NET
+
+📱 Flutter (Mobile App Development)
+
+🌐 HTML5 & CSS3
+
+🤖 AI & Machine Learning
+
+🌍 IoT Development
+
+🧩 Framework-based Application Development
+
+📱 App Development
+
+I build cross-platform mobile applications using Flutter and have experience designing, developing, and deploying functional mobile apps.
+
+🚀 Interests
+
+Artificial Intelligence & Smart Systems
+
+Mobile App Development
+
+Full Stack Development
+
+IoT-Based Projects
+
+Real-world Problem Solving
+
+🌱 Currently improving my skills in advanced AI models and scalable application architecture.
+
+📫 Open to internships, collaborations, and exciting tech opportunities!
 
 
 ## 🌐 Socials:
